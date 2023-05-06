@@ -1,0 +1,44 @@
+[
+  {
+    "image": "https://example.com/image1.jpg",
+    "title": "Sample 1",
+    "unique_plays": 10,
+    "total_plays": 20,
+    "completion_rate": 75
+  },
+  {
+    "image": "https://example.com/image2.jpg",
+    "title": "Sample 2",
+    "unique_plays": 50,
+    "total_plays": 80,
+    "completion_rate": 62
+  },
+  {
+    "image": "https://example.com/image3.jpg",
+    "title": "Sample 3",
+    "unique_plays": 25,
+    "total_plays": 35,
+    "completion_rate": 42
+  },
+  {
+    "image": "https://example.com/image3.jpg",
+    "title": "Sample 4",
+    "unique_plays": 25,
+    "total_plays": 85,
+    "completion_rate": 75
+  },
+  {
+    "image": "https://example.com/image3.jpg",
+    "title": "Sample 5",
+    "unique_plays": 25,
+    "total_plays": 45,
+    "completion_rate": 25
+  },
+  {
+    "image": "https://example.com/image3.jpg",
+    "title": "Sample 6",
+    "unique_plays": 25,
+    "total_plays": 95,
+    "completion_rate": 30
+  }
+]
